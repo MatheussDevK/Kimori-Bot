@@ -30,6 +30,11 @@
 
 ## ⚙️ Instalação
 
+# Clone o repositório
+```bash
+git clone https://github.com/MatheussDevK/Kimori-Bot.git
+```
+
 ```bash
 # Clone o repositório
 git clone https://github.com/MatheussDevK/Kimori-Bot.git
