@@ -20,7 +20,7 @@
 
 ## ✨ O que é a Kimori?
 
-**Kimori** é uma **bot multifuncional para WhatsApp**, criado com [Baileys](https://github.com/WhiskeySockets/Baileys), desenvolvido para automatizar, moderar e divertir grupos e conversas privadas. Ele reúne em um único bot: sistema de RPG, minigames, moderação avançada, figurinhas, economia virtual (Kimocoins), inteligência artificial conversacional e muito mais.
+**Kimori** é uma **bot multifuncional para WhatsApp**, criado com [Baileys](https://github.com/WhiskeySockets/Baileys), desenvolvido para automatizar, moderar e divertir grupos e conversas privadas. Ela reúne em um único bot: sistema de RPG, minigames, moderação avançada, figurinhas, economia virtual (Kimocoins), inteligência artificial conversacional e muito mais.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=3&width=100%25&section=footer"/>
