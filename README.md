@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kimori%20System&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=O%20Bot%20de%20WhatsApp%20mais%20completo%20do%20Brasil&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Bot+de+WhatsApp+Multifuncional;%F0%9F%8E%AE+RPG+%2B+Jogos+%2B+Figurinhas+%2B+IA;%F0%9F%92%9C+Moderação+Completa+de+Grupos;%E2%9A%A1+Kimori+System+by+Matheus" alt="Typing SVG" />
-
 <br>
 
 [![WhatsApp Suporte](https://img.shields.io/badge/💬_Suporte_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553891164328)
