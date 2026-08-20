@@ -1,0 +1,10 @@
+[
+  {
+    "cmdSemPrefixo": "b",
+    "comandoOriginal": "ban"
+  },
+  {
+    "cmdSemPrefixo": "t",
+    "comandoOriginal": "take"
+  }
+]

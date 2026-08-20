@@ -1,0 +1,128 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kimori%20System&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=O%20Bot%20de%20WhatsApp%20mais%20completo%20do%20Brasil&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Bot+de+WhatsApp+Multifuncional;%F0%9F%8E%AE+RPG+%2B+Jogos+%2B+Figurinhas+%2B+IA;%F0%9F%92%9C+Moderação+Completa+de+Grupos;%E2%9A%A1+Kimori+System+by+Matheus" alt="Typing SVG" />
+
+<br>
+
+[![WhatsApp Suporte](https://img.shields.io/badge/💬_Suporte_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553891164328)
+[![Grupo Oficial](https://img.shields.io/badge/👥_Entrar_no_Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KGQabtkJPF1FFjyZxybPRQ?s=cl&p=a&mlu=4)
+[![Canal WhatsApp](https://img.shields.io/badge/📢_Canal_Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q)
+
+[![Version](https://img.shields.io/badge/versão-3.0.1-B983FF?style=flat-square)](.)
+[![License](https://img.shields.io/badge/licença-MIT-blue?style=flat-square)](LICENSE)
+[![Node](https://img.shields.io/badge/node-%3E%3D18-339933?style=flat-square&logo=node.js&logoColor=white)](.)
+[![Baileys](https://img.shields.io/badge/baileys-multi--device-25D366?style=flat-square&logo=whatsapp&logoColor=white)](.)
+[![Maintained](https://img.shields.io/badge/mantido-sim-success?style=flat-square)](.)
+
+</div>
+
+---
+
+## ✨ O que é o Kimori?
+
+**Kimori** é um **bot multifuncional para WhatsApp**, criado com [Baileys](https://github.com/WhiskeySockets/Baileys), desenvolvido para automatizar, moderar e divertir grupos e conversas privadas. Ele reúne em um único bot: sistema de RPG, minigames, moderação avançada, figurinhas, economia virtual (Kimocoins), inteligência artificial conversacional e muito mais.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=3&width=100%25&section=footer"/>
+</div>
+
+## 🚀 Funcionalidades
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Diversão & Jogos
+- Sistema de **RPG** com personagens
+- Jogo da velha multiplayer
+- Forca (jogo da forca)
+- Rankings e brincadeiras de grupo
+- Sistema de **Kimocoins** (economia virtual)
+- Sorteios e recomendações
+
+</td>
+<td width="50%">
+
+### 🛡️ Moderação & Grupo
+- Anti-flood e anti-spam
+- Sistema de banimento e mute
+- Filtros de palavras
+- Anti-link / Anti-roubo de grupo
+- Boas-vindas automáticas
+- Gerenciamento de permissões
+
+</td>
+</tr>
+<tr>
+
+<td width="50%">
+
+### 🎨 Mídia & Utilitários
+- Criador de figurinhas (imagem/vídeo)
+- Download de mídias
+- Sistema de compras e loja (Pix)
+- Sistema VIP
+- Comandos externos personalizáveis
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/kimori-rework.git
+cd kimori-rework
+
+# Instale as dependências
+npm install
+
+# Configure o bot (edite config-bot/config.json com seus próprios dados)
+cp config-bot/config.example.json config-bot/config.json
+
+# Inicie o bot
+npm start
+```
+
+---
+
+## 📱 Como usar
+
+Após escanear o QR Code, o bot conecta à sua conta do WhatsApp e passa a responder aos comandos com o prefixo configurado (padrão: `/`).
+
+```
+/menu        → mostra todos os comandos disponíveis
+```
+
+---
+
+## 💬 Suporte
+
+Precisa de ajuda, quer sugerir uma funcionalidade ou relatar um bug? Fale direto comigo:
+
+<div align="center">
+
+[![Falar no WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-+55_38_9116--4328-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553891164328)
+
+[![Grupo da Comunidade](https://img.shields.io/badge/Entrar_no_Grupo_de_Suporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KGQabtkJPF1FFjyZxybPRQ?s=cl&p=a&mlu=4)
+
+</div>
+
+---
+
+<div align="center">
+
+By: **Matheus**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
+
+<!--
+keywords: kimori, kimori bot, kimori whatsapp, kimori system, bot whatsapp, whatsapp bot, bot de whatsapp brasil, whatsapp bot baileys, baileys bot, bot multifuncional, bot rpg whatsapp, bot ia whatsapp, whatsapp automation, whatsapp group bot, self-bot whatsapp, node.js whatsapp bot, open source whatsapp bot
+-->

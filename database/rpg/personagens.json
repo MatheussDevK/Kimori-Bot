@@ -1,0 +1,58 @@
+[
+  {
+    "jid": "152411645677743@lid",
+    "nome": "</Matheus>",
+    "classe": "mago",
+    "raca": "mink",
+    "nivel": 1,
+    "xp": 0,
+    "berries": 95,
+    "fragmentos": 0,
+    "criadoEm": 1786667214686,
+    "sementes": {},
+    "frutos": {},
+    "plantacoes": [],
+    "habilidades": [],
+    "ilhaAtual": "starter_marinheiro",
+    "combate": {
+      "ilha": "starter_marinheiro",
+      "alvoTipo": "npc",
+      "alvoKey": "trainee",
+      "alvoNome": "Trainee",
+      "alvoNivel": 5,
+      "respawnMin": null,
+      "hpJogador": 88,
+      "hpJogadorMax": 88,
+      "hpAlvo": 124,
+      "hpAlvoMax": 132
+    }
+  },
+  {
+    "jid": "197963766886468@lid",
+    "nome": "sattz",
+    "classe": "pirata",
+    "raca": "shark",
+    "nivel": 1,
+    "xp": 0,
+    "berries": 85,
+    "fragmentos": 0,
+    "criadoEm": 1786668521175,
+    "sementes": {
+      "maca": 0
+    },
+    "frutos": {},
+    "plantacoes": [
+      {
+        "id": "1786668552820-712",
+        "fruta": "maca",
+        "plantadoEm": 1786668552820,
+        "prontoEm": 1786668732820,
+        "mortoEm": 1786670352820,
+        "colheitas": 0
+      }
+    ],
+    "habilidades": [],
+    "ilhaAtual": "starter_pirata",
+    "combate": null
+  }
+]

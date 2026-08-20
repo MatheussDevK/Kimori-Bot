@@ -1,0 +1,296 @@
+[
+  {
+    "grupo": "120363301878611734@newsletter",
+    "ativo": false,
+    "data": "31/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363154081218773@newsletter",
+    "ativo": false,
+    "data": "30/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363430665958890@g.us",
+    "ativo": false,
+    "data": "21/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363426012582664@g.us",
+    "ativo": false,
+    "data": "21/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363428102832465@g.us",
+    "ativo": false,
+    "data": "21/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363427401032580@g.us",
+    "ativo": true,
+    "data": "12/08/2026",
+    "parceiros": {
+      "197963766886468@lid": {
+        "limite": 3,
+        "usados": 0,
+        "warnLimite": false,
+        "data": "12/08/2026"
+      }
+    },
+    "nparc": {}
+  },
+  {
+    "grupo": "120363402500655657@newsletter",
+    "ativo": false,
+    "data": "28/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363199329753521@g.us",
+    "ativo": false,
+    "data": "28/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363411678959149@newsletter",
+    "ativo": false,
+    "data": "28/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363410278675782@g.us",
+    "ativo": false,
+    "data": "28/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363406330074851@newsletter",
+    "ativo": false,
+    "data": "29/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363429354050193@g.us",
+    "ativo": false,
+    "data": "04/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363423707467155@newsletter",
+    "ativo": false,
+    "data": "29/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363409551028206@g.us",
+    "ativo": false,
+    "data": "11/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363420649999621@newsletter",
+    "ativo": false,
+    "data": "29/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363427659235345@newsletter",
+    "ativo": false,
+    "data": "29/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363401004566478@newsletter",
+    "ativo": false,
+    "data": "29/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363426825175965@newsletter",
+    "ativo": false,
+    "data": "30/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363407145383686@newsletter",
+    "ativo": false,
+    "data": "30/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363410845507438@g.us",
+    "ativo": false,
+    "data": "05/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363410090109764@g.us",
+    "ativo": false,
+    "data": "08/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363427226318241@g.us",
+    "ativo": false,
+    "data": "11/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363428268017034@g.us",
+    "ativo": false,
+    "data": "09/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363403723655257@newsletter",
+    "ativo": false,
+    "data": "30/07/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363428145960632@g.us",
+    "ativo": false,
+    "data": "03/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363411988533263@g.us",
+    "ativo": false,
+    "data": "02/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "152411645677743@lid",
+    "ativo": false,
+    "data": "03/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363412779098858@g.us",
+    "ativo": false,
+    "data": "04/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363408526590875@g.us",
+    "ativo": false,
+    "data": "10/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363430327685153@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363294506163855@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363405540152749@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363427211115396@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363423042086165@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363426761629757@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363408383732367@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363429167179837@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363407172364878@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363426986479932@g.us",
+    "ativo": false,
+    "data": "07/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363428341094237@g.us",
+    "ativo": false,
+    "data": "10/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  },
+  {
+    "grupo": "120363428339195083@g.us",
+    "ativo": false,
+    "data": "11/08/2026",
+    "parceiros": {},
+    "nparc": {}
+  }
+]

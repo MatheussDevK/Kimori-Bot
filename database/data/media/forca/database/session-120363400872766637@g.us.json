@@ -1,0 +1,29 @@
+{
+  "session": "./INFO_YUTA/forca/database/session-120363400872766637@g.us.json",
+  "palavra": "falcão",
+  "tema": "natureza",
+  "dica": "tem um cantor brasileiro conhecido com o mesmo nome",
+  "acertos": 0,
+  "erros": 1,
+  "ended": false,
+  "win": false,
+  "usado": [
+    "s"
+  ],
+  "letrasY": [
+    "f",
+    "a",
+    "l",
+    "c",
+    "a",
+    "o"
+  ],
+  "letrasX": [
+    "_",
+    "_",
+    "_",
+    "_",
+    "_",
+    "_"
+  ]
+}

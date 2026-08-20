@@ -1,0 +1,28 @@
+{
+  "session": "./database/data/media/forca/database/session-120363427401032580@g.us.json",
+  "palavra": "anjo",
+  "tema": "seres mitológicos",
+  "dica": "guardião celestial",
+  "acertos": 1,
+  "erros": 3,
+  "ended": false,
+  "win": false,
+  "usado": [
+    "z",
+    "a",
+    "e",
+    "i"
+  ],
+  "letrasY": [
+    "a",
+    "n",
+    "j",
+    "o"
+  ],
+  "letrasX": [
+    "a",
+    "_",
+    "_",
+    "_"
+  ]
+}

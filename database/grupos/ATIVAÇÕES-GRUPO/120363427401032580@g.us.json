@@ -1,0 +1,76 @@
+[
+  {
+    "name": "✿ິ̸ ✧͢⃟ᤢ🤍 𝐂𝐇𝐀𝐓/𝐋𝐀𝐁'𝐬/𝐁𝐎𝐓'𝐬</>",
+    "groupId": "120363427401032580@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antistatus": true,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antilinkeasy": true,
+    "antifake": false,
+    "antiporn": false,
+    "antispam": {
+      "active": false,
+      "figu": {
+        "limite": 6,
+        "tempo": 10
+      },
+      "texto": {
+        "limite": 8,
+        "tempo": 8
+      },
+      "foto": {
+        "limite": 4,
+        "tempo": 10
+      },
+      "video": {
+        "limite": 3,
+        "tempo": 15
+      }
+    },
+    "antinotas": false,
+    "anticatalogo": false,
+    "antipayment": true,
+    "anticanal": false,
+    "Odelete": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "advertir2": [],
+    "ausentes": [],
+    "prefixos": [
+      "/"
+    ],
+    "multiprefix": false,
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "ANTI_DDD": {
+      "active": false,
+      "listaProibidos": []
+    },
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "autosticker": true,
+    "autoresposta": false,
+    "jogos": true,
+    "bangp": true,
+    "autodl": true
+  }
+]
