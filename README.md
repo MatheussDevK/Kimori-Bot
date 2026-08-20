@@ -32,24 +32,19 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/kimori-rework.git
-cd kimori-rework
-
-# Instale as dependências
-npm install
-
-# Configure o bot (edite config-bot/config.json com seus próprios dados)
-cp config-bot/config.example.json config-bot/config.json
+git clone https://github.com/MatheussDevK/Kimori-Bot.git
+cd Kimori-Bot
 
 # Inicie o bot
 npm start
+
 ```
 
 ---
 
 ## 📱 Como usar
 
-Após escanear o QR Code, o bot conecta à sua conta do WhatsApp e passa a responder aos comandos com o prefixo configurado (padrão: `/`).
+Após digitar o código no whatsapp, o bot conecta à sua conta do WhatsApp e passa a responder aos comandos com o prefixo configurado (padrão: `/`).
 
 ```
 /menu        → mostra todos os comandos disponíveis
