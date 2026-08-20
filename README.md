@@ -26,48 +26,6 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=3&width=100%25&section=footer"/>
 </div>
 
-## 🚀 Funcionalidades
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 Diversão & Jogos
-- Sistema de **RPG** com personagens
-- Jogo da velha multiplayer
-- Forca (jogo da forca)
-- Rankings e brincadeiras de grupo
-- Sistema de **Kimocoins** (economia virtual)
-- Sorteios e recomendações
-
-</td>
-<td width="50%">
-
-### 🛡️ Moderação & Grupo
-- Anti-flood e anti-spam
-- Sistema de banimento e mute
-- Filtros de palavras
-- Anti-link / Anti-roubo de grupo
-- Boas-vindas automáticas
-- Gerenciamento de permissões
-
-</td>
-</tr>
-<tr>
-
-<td width="50%">
-
-### 🎨 Mídia & Utilitários
-- Criador de figurinhas (imagem/vídeo)
-- Download de mídias
-- Sistema de compras e loja (Pix)
-- Sistema VIP
-- Comandos externos personalizáveis
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## ⚙️ Instalação
