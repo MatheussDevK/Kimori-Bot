@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kimori%20System&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=O%20Bot%20de%20WhatsApp%20mais%20completo%20do%20Brasil&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kimori%20System&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=A%20Bot%20de%20WhatsApp%20mais%20completa&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
