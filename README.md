@@ -31,15 +31,21 @@ Criada para automatizar tarefas, moderar grupos e proporcionar entretenimento, a
 
 1. Clone o repositório:
 
-```git clone https://github.com/MatheussDevK/Kimori-Bot.git```
+```bash
+git clone https://github.com/MatheussDevK/Kimori-Bot.git
+```
 
 2. Acesse a pasta:
 
-```cd Kimori-Bot```
+```bash
+cd Kimori-Bot
+```
 
 4. Inicie a Kimori:
 
-```npm start```
+```bash
+npm start
+```
 
 ---
 
@@ -49,7 +55,9 @@ Após iniciar o projeto, conecte sua conta do WhatsApp seguindo as instruções 
 
 Prefixo padrão: "/"
 
-```/menu```
+```bash
+/menu
+```
 
 Exibe o menu com todos os comandos disponíveis.
 
