@@ -1,0 +1,82 @@
+{
+  "GIFT-VIP5D-APTV": {
+    "tipo": "vip",
+    "dias": 5,
+    "usado": true,
+    "criadoEm": 1785546162380,
+    "usadoPor": "155070331113702",
+    "usadoEm": 1785546271841
+  },
+  "GIFT-VIP1D-4N2U": {
+    "tipo": "vip",
+    "dias": 1,
+    "usado": true,
+    "criadoEm": 1786153422008,
+    "usadoPor": "219206842904664",
+    "usadoEm": 1786153433228
+  },
+  "GIFT-VIP9999999D-H2XR": {
+    "tipo": "vip",
+    "dias": 9999999,
+    "usado": true,
+    "criadoEm": 1786153835200,
+    "usadoPor": "152411645677743",
+    "usadoEm": 1786153839958
+  },
+  "GIFT-VIP1D-7F7K": {
+    "tipo": "vip",
+    "dias": 1,
+    "usado": true,
+    "criadoEm": 1786153888155,
+    "usadoPor": "219206842904664",
+    "usadoEm": 1786153890992
+  },
+  "GIFT-VIP1D-KARZ": {
+    "tipo": "vip",
+    "dias": 1,
+    "usado": true,
+    "criadoEm": 1786153899318,
+    "usadoPor": "219206842904664",
+    "usadoEm": 1786153902724
+  },
+  "GIFT-VIP1D-C5U6": {
+    "tipo": "vip",
+    "dias": 1,
+    "usado": true,
+    "criadoEm": 1786153902189,
+    "usadoPor": "219206842904664",
+    "usadoEm": 1786153941962
+  },
+  "GIFT-VIP1D-R3LJ": {
+    "tipo": "vip",
+    "dias": 1,
+    "usado": true,
+    "criadoEm": 1786153904287,
+    "usadoPor": "219206842904664",
+    "usadoEm": 1786153915090
+  },
+  "GIFT-VIP1D-2DHV": {
+    "tipo": "vip",
+    "dias": 1,
+    "usado": true,
+    "criadoEm": 1786153906158,
+    "usadoPor": "132336565899452",
+    "usadoEm": 1786153927598
+  },
+  "GIFT-VIP1D-LN35": {
+    "tipo": "vip",
+    "dias": 1,
+    "usado": true,
+    "criadoEm": 1786153908853,
+    "usadoPor": "147072800002177",
+    "usadoEm": 1786153915764
+  },
+  "GIFT-VIP7D-TGHB": {
+    "tipo": "vip",
+    "dias": 7,
+    "usado": true,
+    "criadoEm": 1786153947746,
+    "usadoPor": "152411645677743",
+    "usadoEm": 1786153954353
+  }
+}

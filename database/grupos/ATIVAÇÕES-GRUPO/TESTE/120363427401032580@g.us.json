@@ -1,0 +1,31 @@
+{
+  "welcome": {
+    "status": true,
+    "modo": "foto",
+    "texto": {
+      "ativo": false,
+      "legendabv": "",
+      "legendasaiu": ""
+    },
+    "foto": {
+      "ativo": true,
+      "legendabv": "",
+      "legendasaiu": ""
+    },
+    "audio": {
+      "ativo": false,
+      "legendabv": "",
+      "legendasaiu": ""
+    },
+    "video": {
+      "ativo": false,
+      "legendabv": "",
+      "legendasaiu": ""
+    },
+    "sticker": {
+      "ativo": false,
+      "legendabv": "",
+      "legendasaiu": ""
+    }
+  }
+}

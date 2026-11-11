@@ -1,0 +1,229 @@
+[
+  {
+    "jid": "152411645677743@lid",
+    "nome": "</Matheus>",
+    "classe": "mago",
+    "raca": "shark",
+    "nivel": 51,
+    "xp": 320,
+    "berries": 3300188,
+    "fragmentos": 95000,
+    "criadoEm": 1786667214686,
+    "sementes": {
+      "melancia": 0,
+      "abacaxi": 0,
+      "tomate": 0,
+      "banana": 0,
+      "maca": 0
+    },
+    "frutos": {
+      "maca": 9,
+      "banana": 3,
+      "abacaxi": 2,
+      "tomate": 2
+    },
+    "plantacoes": [
+      {
+        "id": "1787576866293-5748",
+        "fruta": "melancia",
+        "plantadoEm": 1787576866293,
+        "prontoEm": 1787577466293,
+        "mortoEm": 1787578666293,
+        "colheitas": 0
+      },
+      {
+        "id": "1787576867506-6284",
+        "fruta": "melancia",
+        "plantadoEm": 1787576867506,
+        "prontoEm": 1787577467506,
+        "mortoEm": 1787578667506,
+        "colheitas": 0
+      },
+      {
+        "id": "1787576887250-2477",
+        "fruta": "abacaxi",
+        "plantadoEm": 1787576887250,
+        "prontoEm": 1787577460792,
+        "mortoEm": 1787578687250,
+        "colheitas": 1
+      },
+      {
+        "id": "1787576888409-8363",
+        "fruta": "abacaxi",
+        "plantadoEm": 1787576888409,
+        "prontoEm": 1787577460792,
+        "mortoEm": 1787578688409,
+        "colheitas": 1
+      },
+      {
+        "id": "1787576922457-7374",
+        "fruta": "tomate",
+        "plantadoEm": 1787576922457,
+        "prontoEm": 1787577430792,
+        "mortoEm": 1787578722457,
+        "colheitas": 1
+      },
+      {
+        "id": "1787576924885-6105",
+        "fruta": "tomate",
+        "plantadoEm": 1787576924885,
+        "prontoEm": 1787577430792,
+        "mortoEm": 1787578724885,
+        "colheitas": 1
+      },
+      {
+        "id": "1787576949435-4901",
+        "fruta": "banana",
+        "plantadoEm": 1787576949435,
+        "prontoEm": 1787577415792,
+        "mortoEm": 1787578749435,
+        "colheitas": 1
+      },
+      {
+        "id": "1787577007726-5490",
+        "fruta": "maca",
+        "plantadoEm": 1787577007726,
+        "prontoEm": 1787577400792,
+        "mortoEm": 1787578807726,
+        "colheitas": 1
+      },
+      {
+        "id": "1787577012661-8297",
+        "fruta": "maca",
+        "plantadoEm": 1787577012661,
+        "prontoEm": 1787577400792,
+        "mortoEm": 1787578812661,
+        "colheitas": 1
+      },
+      {
+        "id": "1787577027890-8803",
+        "fruta": "maca",
+        "plantadoEm": 1787577027890,
+        "prontoEm": 1787577400792,
+        "mortoEm": 1787578827890,
+        "colheitas": 1
+      },
+      {
+        "id": "1787576970648-5912",
+        "fruta": "maca",
+        "plantadoEm": 1787576970648,
+        "prontoEm": 1787577378292,
+        "mortoEm": 1787578770648,
+        "colheitas": 2
+      },
+      {
+        "id": "1787576972623-3238",
+        "fruta": "maca",
+        "plantadoEm": 1787576972623,
+        "prontoEm": 1787577378292,
+        "mortoEm": 1787578772623,
+        "colheitas": 2
+      },
+      {
+        "id": "1787576974188-170",
+        "fruta": "maca",
+        "plantadoEm": 1787576974188,
+        "prontoEm": 1787577378292,
+        "mortoEm": 1787578774188,
+        "colheitas": 2
+      },
+      {
+        "id": "1787576943979-6318",
+        "fruta": "banana",
+        "plantadoEm": 1787576943979,
+        "prontoEm": 1787577385792,
+        "mortoEm": 1787578743979,
+        "colheitas": 2
+      }
+    ],
+    "habilidades": [
+      "maca",
+      "banana",
+      "abacaxi",
+      "tomate"
+    ],
+    "ilhaAtual": "pirate_village",
+    "combate": null,
+    "estamina": 4,
+    "estaminaAtualizadoEm": 1787577399164,
+    "recompensa": 80000,
+    "bandoId": null,
+    "vitoriasPvp": 0,
+    "derrotasPvp": 0,
+    "desafioDe": null,
+    "transformacaoDesbloqueada": true,
+    "itens": {},
+    "maresLiberados": [
+      1
+    ]
+  },
+  {
+    "jid": "197963766886468@lid",
+    "nome": "sattz",
+    "classe": "pirata",
+    "raca": "shark",
+    "nivel": 1,
+    "xp": 0,
+    "berries": 85,
+    "fragmentos": 0,
+    "criadoEm": 1786668521175,
+    "sementes": {
+      "maca": 0
+    },
+    "frutos": {},
+    "plantacoes": [
+      {
+        "id": "1786668552820-712",
+        "fruta": "maca",
+        "plantadoEm": 1786668552820,
+        "prontoEm": 1786668732820,
+        "mortoEm": 1786670352820,
+        "colheitas": 0
+      }
+    ],
+    "habilidades": [],
+    "ilhaAtual": "starter_pirata",
+    "combate": null
+  },
+  {
+    "jid": "215285839724563@lid",
+    "nome": "Vitor",
+    "classe": "pirata",
+    "raca": "mink",
+    "nivel": 1,
+    "xp": 0,
+    "berries": 85,
+    "fragmentos": 0,
+    "recompensa": 0,
+    "criadoEm": 1793662514921,
+    "sementes": {
+      "maca": 0
+    },
+    "frutos": {},
+    "plantacoes": [
+      {
+        "id": "1793662583237-8952",
+        "fruta": "maca",
+        "plantadoEm": 1793662583237,
+        "prontoEm": 1793662763237,
+        "mortoEm": 1793664383237,
+        "colheitas": 0
+      }
+    ],
+    "habilidades": [],
+    "ilhaAtual": "starter_pirata",
+    "combate": null,
+    "estamina": 100,
+    "estaminaAtualizadoEm": 1793662540554,
+    "bandoId": null,
+    "vitoriasPvp": 0,
+    "derrotasPvp": 0,
+    "desafioDe": null,
+    "transformacaoDesbloqueada": false,
+    "itens": {},
+    "maresLiberados": [
+      1
+    ],
+    "ultimaExploracao": 0
+  }
+]

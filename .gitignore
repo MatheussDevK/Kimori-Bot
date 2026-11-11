@@ -1,0 +1,13 @@
+database/qr-code/
+
+*.tmp
+
+database/temp_npm/
+
+.trashed-*
+
+database/tmp/
+
+database/cache/play/
+.env
+subirgit.sh

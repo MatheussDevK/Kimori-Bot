@@ -1,0 +1,27 @@
+{
+  "session": "./INFO_YUTA/forca/database/session-5511965339845-1606039424@g.us.json",
+  "palavra": "plasma",
+  "tema": "Física",
+  "dica": "Um estado da matéria composto por partículas carregadas.",
+  "acertos": 0,
+  "erros": 0,
+  "ended": false,
+  "win": false,
+  "usado": [],
+  "letrasY": [
+    "p",
+    "l",
+    "a",
+    "s",
+    "m",
+    "a"
+  ],
+  "letrasX": [
+    "_",
+    "_",
+    "_",
+    "_",
+    "_",
+    "_"
+  ]
+}
