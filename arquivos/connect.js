@@ -913,14 +913,34 @@ let numeroPareamento = null;
 let perguntaPareamento = null;
 let socketAtual = null;
 
+// Na host (Pterodactyl) o número pode vir da variável NUMERO_BOT do egg: aí nem precisa digitar.
+function numeroDaHost() {
+const n = toNum(process.env.NUMERO_BOT || process.env.BOT_NUMBER || '');
+return n.length >= 10 ? n : null;
+}
+
 async function perguntarNumero() {
+const daHost = numeroDaHost();
+if (daHost) {
+console.log(chalk.cyan(`Número do bot pego da variável NUMERO_BOT: ${daHost}`));
+return daHost;
+}
+// O console do Pterodactyl só mostra linha completa: a pergunta termina com quebra de linha
+// (sem isso o "-->" ficava invisível) e é repetida enquanto ninguém responde, pra não sumir no meio dos logs.
+const PERGUNTA = '\n════════════════════════════════════════\n' +
+'  DIGITE O NÚMERO DO WHATSAPP DO BOT (com DDI e DDD)\n' +
+'  Exemplo: 5511999998888  → e aperte Enter\n' +
+'════════════════════════════════════════\n';
 while (true) {
 let phoneNumber;
+const lembrete = setInterval(() => console.log(chalk.cyan(PERGUNTA)), 30000);
 try {
-phoneNumber = await question(chalk.cyan("Digite o número do WhatsApp que deseja conectar ↴\n--> "));
+phoneNumber = await question(chalk.cyan(PERGUNTA));
+clearInterval(lembrete);
 } catch {
+clearInterval(lembrete);
 // terminal sem entrada (ex.: rodando em segundo plano): não tem como perguntar
-console.log(chalk.red('Não consigo ler o número: o terminal não aceita digitação. Rode o bot num terminal interativo para parear.'));
+console.log(chalk.red('Não consigo ler o número: o terminal não aceita digitação. Coloque o número na variável NUMERO_BOT (na host: aba Startup) ou rode num terminal interativo.'));
 return new Promise(() => {});
 }
 const numeros = toNum(phoneNumber);
@@ -1105,7 +1125,10 @@ const { [tipo]: _midia, caption, gifPlayback, mimetype, fileName, ptt, jpegThumb
 return enviarOriginal(jid, { ...resto2, text: texto }, ...resto);
 });
 };
-const isAuthenticated = state.creds?.registered || state.creds?.me?.id;
+// Só "registered" garante que o pareamento terminou. Antes também valia creds.me.id, que fica salvo
+// quando um pareamento é interrompido no meio: aí o bot achava que já estava conectado e nunca
+// mais pedia o número (o campo do número "sumia").
+const isAuthenticated = !!state.creds?.registered;
 
 if (!isAuthenticated) {
 if (mode === 'code') {

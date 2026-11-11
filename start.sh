@@ -19,7 +19,7 @@ readonly CONNECT_JS="arquivos/connect.js"
 readonly VERSION="4.0.0-esm"
 
 show_banner() {
-clear
+[ -t 1 ] && [ -n "$TERM" ] && clear
 
 echo ""
 echo -e "${PASTEL_PINK}◈─────────────────────────────────◈${RESET}"
@@ -32,6 +32,9 @@ echo ""
 sparkle() {
 echo -e "${PINK}✦${RESET} ${LAVENDER}✦${RESET} ${HOT_PINK}✦${RESET} ${PURPLE}✦${RESET} ${PINK}✦${RESET}"
 }
+
+# parar pelo painel (Ctrl+C / stop) encerra de vez, em vez de reiniciar o loop
+trap 'exit 0' INT TERM
 
 start() {
 while true; do

@@ -5,7 +5,7 @@
   "type": "module",
   "main": "arquivos/connect.js",
   "scripts": {
-    "start": "sh start.sh",
+    "start": "bash start.sh",
     "clean": "rm -rf ./database/qr-code && echo 'Sessão apagada. Execute npm start para conectar de novo'",
     "debug": "node arquivos/connect.js --code --debug"
   },
