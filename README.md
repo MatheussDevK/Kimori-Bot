@@ -1,6 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kimori%20System&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Um%20bot%20de%20WhatsApp%20completo&descAlignY=58&descSize=18" width="100%" /><br/><a href="https://host.orbitalcode.online"><img src="https://img.shields.io/badge/🚀_Orbital_Host-25D366?style=for-the-badge" /></a>
 <a href="https://wa.me/553891164328"><img src="https://img.shields.io/badge/💬_Suporte_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://chat.whatsapp.com/Hdickco2MsJ9wOFmzMba4o?s=cl&p=a&iam=2"><img src="https://img.shields.io/badge/👥_Grupo_Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/Hdickco2MsJ9wOFmzMba4o"><img src="https://img.shields.io/badge/👥_Grupo_Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q"><img src="https://img.shields.io/badge/📢_Canal_Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/><img src="https://img.shields.io/badge/versão-4.0.0-B983FF?style=flat-square" />
