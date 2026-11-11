@@ -69,6 +69,6 @@ Exibe o menu com todos os comandos disponíveis.
 <a href="https://chat.whatsapp.com/Hdickco2MsJ9wOFmzMba4o?s=cl&p=a&iam=2"><img src="https://img.shields.io/badge/Grupo_de_Suporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://host.orbitalcode.online"><img src="https://img.shields.io/badge/Orbital_Host-25D366?style=for-the-badge" /></a>
 
-<br/>Desenvolvido por Matheus
+<br/>Atualizada por Matheus </> e Sattz Dev
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" /></div>
